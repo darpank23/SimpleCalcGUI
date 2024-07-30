@@ -1,1 +1,1 @@
-# JavaCalc
+Simple Calculator made with Python. For this calculator I also made a GUI to go with it.
